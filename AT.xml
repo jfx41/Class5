@@ -8,7 +8,7 @@
       <msg name="Lang">EN</msg>
       <msg name="Gadget_Title">
 </msg>
-      <msg name="Gadget_Description">
+<msg name="Gadget_Description">
 A gadget to create a table from a spreadsheet and add interactive controls to manipulate the data it displays.
 </msg>
     </Locale>
