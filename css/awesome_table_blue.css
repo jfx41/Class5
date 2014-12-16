@@ -3,7 +3,6 @@
   line-height:27px;
   font-size:14px;
   font-weight:700;
-  text-align:center;
 }
   
 .google-visualization-table-td-number {
@@ -13,7 +12,7 @@
   
 .google-visualization-table-tr-head,.google-visualization-table-tr-head td,.google-visualization-table-tr-head-nonstrict {
   font-weight:700;
-  text-align:left!important;
+  text-align:center!important;
 }
   
 .google-visualization-controls-rangefilter .google-visualization-controls-label {
