@@ -8,6 +8,7 @@
 .google-visualization-table-td-number {
   text-align:center!important;
   white-space:nowrap;
+  background:#111;
 }
   
 .google-visualization-table-tr-head,.google-visualization-table-tr-head td,.google-visualization-table-tr-head-nonstrict {
@@ -30,7 +31,6 @@
   border-left:0!important;
   border-right:0!important;
   border-top:0!important;
-  background:#111;
 }
   
 .google-visualization-table-th {
