@@ -26,7 +26,7 @@
 }
   
 .google-visualization-table-td {
-  border-bottom:20px solid #333!important;
+  /* border-bottom:20px solid #333!important; */
   border-left:0!important;
   border-right:0!important;
   border-top:0!important;
