@@ -1,5 +1,5 @@
 .google-visualization-controls-label {
-  color:#FFF!important;
+  color:#000!important;
   line-height:27px;
   font-size:14px;
   font-weight:700;
@@ -16,12 +16,12 @@
 }
   
 .google-visualization-controls-rangefilter .google-visualization-controls-label {
-  color:#ccc!important;
+  color:#000!important;
 }
   
 .google-visualization-table-table .gradient,.google-visualization-table-div-page .gradient {
   background: linear-gradient(to bottom, #1473b3 0%, #1473b3 100%) !important;
-  color:#ccc;
+  color:#000;
   padding:15px 8px;
 }
   
