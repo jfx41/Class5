@@ -20,7 +20,7 @@
 }
   
 .google-visualization-table-table .gradient,.google-visualization-table-div-page .gradient {
-  background: linear-gradient(to bottom, #1473b3 0%, #1473b3 100%) !important;
+  /* background: linear-gradient(to bottom, #1473b3 0%, #1473b3 100%) !important; */
   color:#fff;
   padding:15px 8px;
 }
