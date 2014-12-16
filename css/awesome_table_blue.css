@@ -3,7 +3,6 @@
   line-height:27px;
   font-size:14px;
   font-weight:700;
-  text-align:center!important;
 }
   
 .google-visualization-table-td-number {
@@ -13,7 +12,7 @@
   
 .google-visualization-table-tr-head,.google-visualization-table-tr-head td,.google-visualization-table-tr-head-nonstrict {
   font-weight:700;
-  text-align:center!important;
+  text-align:left!important;
 }
   
 .google-visualization-controls-rangefilter .google-visualization-controls-label {
@@ -24,7 +23,6 @@
   background: linear-gradient(to bottom, #1473b3 0%, #1473b3 100%) !important;
   color:#fff;
   padding:15px 8px;
-  text-align:center!important;
 }
   
 .google-visualization-table-td {
@@ -32,6 +30,7 @@
   border-left:0!important;
   border-right:0!important;
   border-top:0!important;
+  background:#111;
 }
   
 .google-visualization-table-th {
