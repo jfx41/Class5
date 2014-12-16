@@ -1,3 +1,9 @@
+/* Updated CSS */
+.controlersPanel {
+  color:ddd;
+  background:ddd;
+}
+
 .google-visualization-controls-label {
   color:#FFF!important;
   line-height:27px;
