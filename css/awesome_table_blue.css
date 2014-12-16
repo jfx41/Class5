@@ -1,11 +1,11 @@
 /* Updated CSS */
 .controlersPanel {
-  color:ddd;
-  background:ddd;
+  color:#ddd;
+  background:#ddd;
 }
 
 .google-visualization-controls-label {
-  color:#f5f5f5!important;
+  color:#FFF!important;
   line-height:27px;
   font-size:14px;
   font-weight:700;
